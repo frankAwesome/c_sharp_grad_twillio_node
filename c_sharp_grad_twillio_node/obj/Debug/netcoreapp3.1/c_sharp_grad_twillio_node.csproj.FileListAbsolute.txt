@@ -43,3 +43,27 @@ C:\Users\bbdnet2240\Projects\Grad C#\SQL Server Backend\saves\6 - stack 1\c_shar
 C:\Users\bbdnet2240\Projects\Grad C#\SQL Server Backend\saves\6 - stack 1\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
 C:\Users\bbdnet2240\Projects\Grad C#\SQL Server Backend\saves\6 - stack 1\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
 C:\Users\bbdnet2240\Projects\Grad C#\SQL Server Backend\saves\6 - stack 1\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\obj\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.exe
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.deps.json
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.runtimeconfig.json
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.runtimeconfig.dev.json
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.pdb
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\obj\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.csprojAssemblyReference.cache
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\obj\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\obj\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.AssemblyInfoInputs.cache
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\obj\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.AssemblyInfo.cs
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\obj\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.csproj.CopyComplete
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\obj\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.dll
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\obj\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.pdb
+C:\Users\bbdnet2240\Desktop\C# Master 19h\c_sharp_grad_twillio_node\c_sharp_grad_twillio_node\obj\Debug\netcoreapp3.1\c_sharp_grad_twillio_node.genruntimeconfig.cache

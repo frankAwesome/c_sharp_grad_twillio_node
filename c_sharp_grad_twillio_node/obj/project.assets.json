@@ -4483,11 +4483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bbdnet2240\\Projects\\Grad C#\\SQL Server Backend\\saves\\6 - stack 1\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node.csproj",
+      "projectUniqueName": "C:\\Users\\bbdnet2240\\Desktop\\C# Master 19h\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node.csproj",
       "projectName": "c_sharp_grad_twillio_node",
-      "projectPath": "C:\\Users\\bbdnet2240\\Projects\\Grad C#\\SQL Server Backend\\saves\\6 - stack 1\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node.csproj",
+      "projectPath": "C:\\Users\\bbdnet2240\\Desktop\\C# Master 19h\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node.csproj",
       "packagesPath": "C:\\Users\\bbdnet2240\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bbdnet2240\\Projects\\Grad C#\\SQL Server Backend\\saves\\6 - stack 1\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node\\obj\\",
+      "outputPath": "C:\\Users\\bbdnet2240\\Desktop\\C# Master 19h\\c_sharp_grad_twillio_node\\c_sharp_grad_twillio_node\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
